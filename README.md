@@ -1,8 +1,9 @@
 Genesis-Wallet v0.1.0
 =============================
-lightweight mulit-asset wallet (currently running in testnet)
+lightweight, encrypted and decentralised mulit-asset wallet
 
 Supported Coins
 ----------------
 ###### Bitcoin
 ###### Litecoin
+###### Dash
