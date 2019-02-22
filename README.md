@@ -7,3 +7,5 @@ Supported Coins
 ###### Bitcoin
 ###### Litecoin
 ###### Dash
+###### Ravencoin
+###### Dynamic
