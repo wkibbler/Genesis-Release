@@ -1,4 +1,4 @@
-Genesis-Wallet v0.1.0
+Genesis-Wallet v0.1.2
 =============================
 lightweight, encrypted and decentralised mulit-asset wallet
 
