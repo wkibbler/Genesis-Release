@@ -9,3 +9,5 @@ Supported Coins
 ###### Dash
 ###### Ravencoin
 ###### Dynamic
+###### Bitcoin Air
+###### ZCash
